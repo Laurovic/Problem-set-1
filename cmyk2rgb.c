@@ -3,7 +3,7 @@
 int main(void){
     float cyan, magenta, yellow, black;
 
-    printf("Zadaj C(0-100):");
+    printf("Zadaj C (0-100):");
     scanf("%f", &cyan);
     printf("Zadaj M (0-100):");
     scanf("%f", &magenta);
