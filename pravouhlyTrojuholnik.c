@@ -1,7 +1,6 @@
 #include <stdio.h>
 
-int main(void)
-{
+int main(void){
     int str1, str2, str3;
 
     printf("Zadaj prvu stranu :");
@@ -17,12 +16,9 @@ int main(void)
     int tst2 = str2*str2==str3*str3+str1*str1;
     int tst3 = str3*str3==str2*str2+str1*str1;
 
-    if (tst1 || tst2 || tst3 == 1 )
-    {
+    if (tst1 || tst2 || tst3 == 1 ){
         printf("true");
-    }
-    else
-    {
+    }else{
         printf("false");
     }
 }
