@@ -38,5 +38,8 @@ int main(void) {
 
                 printf("%.0f\n%.0f\n%.0f\n%.0f", cyan * 100, magenta * 100, yellow * 100, black * 100);
                 exit(0);
-            }}}
-    printf("Zly vstup");}
+            }
+        }
+    }
+    printf("Zly vstup");
+}
