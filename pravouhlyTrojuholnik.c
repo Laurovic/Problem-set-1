@@ -5,10 +5,8 @@ int main(void){
 
     printf("Zadaj prvu stranu :");
     scanf("%i", &str1);
-
     printf("Zadaj druhu stranu :");
     scanf("%i", &str2);
-
     printf("Zadaj tretiu stranu :");
     scanf("%i", &str3);
 
@@ -20,5 +18,4 @@ int main(void){
         printf("true");
     }else{
         printf("false");
-    }
-}
+    }}
