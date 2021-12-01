@@ -20,7 +20,7 @@ int main(void){
             printf ("%f\n", podiel);
             printf ("%.0f\n", round(podiel));
         }
-    }else{
+    } else {
         float podiel = (float)cislo1/(float)cislo2;
         printf ("%i\n", cislo2*cislo1);
         printf ("%i\n", cislo2+cislo1);
@@ -30,4 +30,6 @@ int main(void){
         } else {
             printf ("%f\n", podiel);
             printf ("%.0f\n", round(podiel));
-        }}}
+        }
+    }
+}
