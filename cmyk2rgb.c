@@ -22,5 +22,9 @@ int main(void){
                     
                     printf("%.0f\n%.0f\n%.0f\n", red, green, blue);
                     exit(0);
-                }}}}
-    printf("Zly vstup");}
+                }
+            }
+        }
+    }
+    printf("Zly vstup");
+}
