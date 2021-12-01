@@ -16,6 +16,7 @@ int main(void){
 
     if (tst1 || tst2 || tst3 == 1 ){
         printf("true");
-    }else{
+    } else {
         printf("false");
-    }}
+    }
+}
